@@ -1,1 +1,1 @@
-# Vscode-Cpp-Setting-2.0
+# Vscode C++ Setting 2.0
